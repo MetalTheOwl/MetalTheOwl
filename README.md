@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**MetalTheOwl/MetalTheOwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Kirill Veremenko - aka MetalTheOwl 🦉
 
-Here are some ideas to get you started:
+- 📊 I'm economist-analyst in the transport sector with more than 5 years of experience in developing financial and economic models, conducting technical and economic calculations and working with different data. Participated in different rolling stock and infrastructure projects for railway companies.
+- 🔭 Currently upgrading my skills in data analysis.
+- ⚡ Passionate about improving existing and learning new things about technologies I'm working with and how I can effectively implement and use them on daily basis.
+- 🙋‍♂️ Actively looking for a job.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools and languages 🛠:
+- Excel, Python, Pandas, Numpy, Seaborn, Matplotlib, Pyplot, PostgreSQL, Tableau.
+
+### My contacts 📠:
+- [email](mailto:vka1997@yandex.ru)
